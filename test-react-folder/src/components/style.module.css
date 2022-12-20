@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.container {
+    display: block;
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container:hover {
+    background: gray;
+}
+
+.user_item {
+    display: block;
+    max-width: 760px;
+  }
+
